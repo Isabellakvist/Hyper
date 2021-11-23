@@ -174,5 +174,5 @@ New.onclick = function () {
 
 function close() {
   x = document.getElementById("bort");
-  x.style.visibility = "hidden";
+  x.style.display = "none";
 }
