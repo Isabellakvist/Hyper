@@ -51,7 +51,8 @@ let text = [
   },
   {
     Title: "Who am I?",
-    Description: "For this exercise you need post it notes and a pen.",
+    Description:
+      "A simple energizer that tests your imitation (and possible history) skills! Depending on the amount of participants and chosen characters, the game can take 5 minutes or longer. You can decide beforehand how much time you want to spend on this game. For this exercise you need a facilitator, post it notes and a pen.",
     Steps: [
       {
         step1: "Step 1",
@@ -68,7 +69,7 @@ let text = [
   {
     Title: "Mirror mirror",
     Description:
-      "Part the participants 2 and 2 (works best with a smaller number but one team can be 3) and have them stand in front of each other.",
+      "A short energizing game that takes less than 5 minutes to complete. Perfect when you need a little break in your project or class! Start with partnering the participants 2 and 2 (works best with a smaller number but one team can be 3) and have them stand in front of each other.",
     Steps: [
       {
         step1: "Step 1",
@@ -102,12 +103,12 @@ let text = [
   {
     Title: "Laughing game",
     Description:
-      "Divide in to two teams and stand on a row facing the team on the other side. Decide which team is the joker and which is the silent team.",
+      "This energizer is perfect when energy is low, it’s quick, it’s fun and it’s easy! Divide in to two teams and stand on a row facing the team on the other side. Decide which team is the joker and which is the silent team.",
     Steps: [
       {
         step1: "Step 1",
         description:
-          "By any means possible, the joker team has to make the person in front of you laugh by saying ’’Haha’’ ’’hoho’’ or ’’heehee’’.",
+          "By any means possible, the joker team has to make the person in front of you laugh by saying ’’Haha’’ ’’hoho’’ or ’’heehee’’. Maybe throw in a silly face now and then to throw your opponent off guard?",
 
         step2: "Step 2",
         description2:
@@ -119,7 +120,7 @@ let text = [
   {
     Title: "Sing song ping pong",
     Description:
-      "If you’re not a singer, no worries, it’s more fun that way! This game can be played either in teams or individually.",
+      "This exercise is totally embarrassing and a great way to be silly with each other. If you’re not a singer, no worries, it’s more fun that way! This game can be played either in teams or individually.",
     Steps: [
       {
         step1: "Step 1",
@@ -128,7 +129,7 @@ let text = [
 
         step2: "Step 2",
         description2:
-          "Example: Mika - ''I could be brown, I could be blue, I could be violet sky I could be hurtful, I could be purple...'' The answering song could be Prince - '' Laughing in the purple rain. Purple rain, purple rain. Purple rain, purple rain. Purple rain, purple rain. I only wanted to see you...'' The following song Journey - '' You’re the one and only... ''",
+          "Example: Mika - ''I could be brown, I could be blue, I could be violet sky I could be hurtful, I could be purple...'' The answering song could be Prince - '' Laughing in the purple rain. Purple rain, purple rain. Purple rain, purple rain. Purple rain, purple rain. I only wanted to see you...'' The following song B.J. Thomas ''Raindrops are falling on my head, And just like the guy whose feet are too big for his bed, Nothing seems to fit, Those raindrops are falling on my head, they keep falling",
       },
     ],
   },
