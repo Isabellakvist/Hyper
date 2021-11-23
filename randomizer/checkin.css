@@ -6,7 +6,7 @@ body {
 }
 
 body {
-  background-color: #c0e5c8;
+  background-color: #a0dfad;
   background-image: url("../Bilderhypeway/Vector.png");
   background-size: cover;
   background-repeat: no-repeat;
@@ -39,7 +39,7 @@ body {
 
   font-family: Sen;
   font-style: normal;
-  font-weight: 800;
+  font-weight: 750;
   font-size: 45px;
   line-height: 50px;
   text-align: center;
