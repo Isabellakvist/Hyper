@@ -133,6 +133,40 @@ let text = [
       },
     ],
   },
+
+  {
+    Title: "Wrong answers only",
+    Description:
+      "This is a creative energiser that boosts the participants creative thinking. You can set the time for 5 or 10 minutes, or for how many minutes that you have. Partner up at least 2-2.",
+    Steps: [
+      {
+        step1: "Step 1",
+        description:
+          "Hand out pen and paper to all the teams and grab an everyday item (Paperclip, chair, belt etc.) for them to describe. Set your timer and ask the participants to write down as many alternative uses for that item. The twist is that they can only write down wrong answers! ",
+
+        step2: "Step 2",
+        description2:
+          "When the time’s up, ask the small groups to count their number of answers and choose 1-2 alternative uses that they want to share with the whole group. It could be something that actually works or something that’s just hilarious. ",
+      },
+    ],
+  },
+
+  {
+    Title: "Alphabet of ideas",
+    Description:
+      "This exercise is easier if you’re in a group but you can be on your own to. Write down the letters A-Z on a piece of paper. Set a timer for 10 minutes. ",
+    Steps: [
+      {
+        step1: "Step 1",
+        description:
+          "All participants/groups should write down one word on each letter that correlates to your theme of the day. For example. UX - design, write down the first thing that comes to mind on each letter. It has to correlate to the subject. This could be such as: A - App development, B - Branding, C - CSS",
+
+        step2: "Step 2",
+        description2:
+          "When the times up, share your thoughts with the rest of the group. Explain why you thought as you did. This exercise helps you remember keywords, learn new words and new ways of thinking.",
+      },
+    ],
+  },
 ];
 let i = 0;
 New.onclick = function () {

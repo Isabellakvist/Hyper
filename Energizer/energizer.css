@@ -18,7 +18,8 @@ body {
   transform: rotate(-15deg);
 }
 #home {
-  position: absolute;
+  position: fixed;
+  overflow: hidden;
   top: 50px;
   right: 60px;
 }
