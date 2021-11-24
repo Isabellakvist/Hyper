@@ -57,6 +57,7 @@ body {
   text-align: center;
   color: white;
 }
+
 #description {
   font-family: sen;
   width: 780px;
@@ -66,7 +67,7 @@ body {
   font-style: normal;
   font-weight: 600;
   font-size: 19px;
-  line-height: 22px;
+  line-height: 23px;
   text-align: center;
   color: white;
 }
@@ -91,7 +92,7 @@ body {
   top: 270px;
   font-weight: 600;
   font-size: 19px;
-  line-height: 22px;
+  line-height: 23px;
   text-align: center;
   color: white;
 }
@@ -118,7 +119,7 @@ body {
   top: 440px;
   font-weight: 600;
   font-size: 19px;
-  line-height: 21px;
+  line-height: 23px;
   text-align: center;
   color: white;
 }
